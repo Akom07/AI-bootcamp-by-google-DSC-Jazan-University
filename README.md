@@ -3,16 +3,16 @@ This is my application while attending Ai bootcamp
 
 To run this you will need:
 
-Python
+1) Python
 
-VSCode
+2) VSCode
 
 
 You will also need these libraries:
 
-cv2
+1) cv2
 
-numpy
+2) numpy
 
-matplotlib
+3) matplotlib
 
